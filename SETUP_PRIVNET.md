@@ -1,3 +1,5 @@
+# Setup Instructions
+
 NEO private network with initial 100m NEO and lots of GAS (https://hub.docker.com/r/metachris/neo-privnet-with-gas/)
 ```
 docker pull metachris/neo-privnet-with-gas
